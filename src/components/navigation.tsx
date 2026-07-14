@@ -27,7 +27,7 @@ export function Navigation() {
               </div>
               <div className="logo-two-tone">
                 <h1 className="header-title">
-                  <span className="a">Neura</span> <span className="b">Robotics</span>
+                  <span className="a">XIBOTIX</span> <span className="b">Robotics</span>
                 </h1>
               </div>
             </div>

@@ -15,7 +15,7 @@ export function Footer() {
             </div>
             <div className="logo-two-tone">
               <h1 className="header-title">
-                <span className="a">Neura</span> <span className="b">Robotics</span>
+                <span className="a">XIBOTIX</span> <span className="b">Robotics</span>
               </h1>
             </div>
           </div>
@@ -44,7 +44,7 @@ export function Footer() {
             <Phone className="h-3.5 w-3.5" /> +91 95107 49226
           </a>
           <a
-            href="https://github.com/y4th4rthh/neura-robotics"
+            href="https://github.com/y4th4rthh/XIBOTIX-robotics"
             className="flex items-center gap-1.5 hover:text-foreground transition-colors"
           >
             <FaGithub className="h-3.5 w-3.5" /> Github
