@@ -58,7 +58,7 @@ export function Footer() {
         </div>
 
         <div className="mt-7 text-center text-xs" style={{ color: '#5c6478' }}>
-          © {new Date().getFullYear()} Neura Robotics. Vellore, Tamil Nadu.
+          © {new Date().getFullYear()} XIBOTIX ROBOTICS. Vellore, Tamil Nadu.
         </div>
       </div>
     </footer>

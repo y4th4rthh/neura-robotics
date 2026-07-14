@@ -4,7 +4,7 @@ export function Hero() {
   return (
     <section className="relative pt-16 sm:pt-20">
       <div className="text-center px-6 pb-14">
-        <div className="eyebrow-center mb-4">Neura Robotics — Next-Generation Technology</div>
+        <div className="eyebrow-center mb-4">XIBOTIX ROBOTICS — Next-Generation Technology</div>
 
         <h1 className="mx-auto max-w-3xl text-4xl font-semibold leading-[1.08] tracking-tight sm:text-5xl lg:text-[58px]">
           One core technology.

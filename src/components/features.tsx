@@ -30,7 +30,7 @@ export function Features() {
           <div className="eyebrow-center mb-4">Shared Engineering Core</div>
           <h2 className="text-3xl font-semibold sm:text-[42px] mb-4">One core, two frontiers</h2>
           <p style={{ color: '#8d97ab' }}>
-            Robotics and rehabilitation aren't separate businesses at Neura Robotics. They
+            Robotics and rehabilitation aren't separate businesses at XIBOTIX ROBOTICS. They
             share the same actuation, sensing, and control foundations, tuned for two very
             different jobs.
           </p>
